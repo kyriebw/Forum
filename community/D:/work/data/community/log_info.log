@@ -1,0 +1,10 @@
+2024-02-08 16:40:38,225 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:50] Starting MapperTests on MacBook-Air-3.lan with PID 74953 (started by wbw in /Users/wbw/Desktop/Forum/community)
+2024-02-08 16:40:38,226 INFO [main] c.n.c.MapperTests [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2024-02-08 16:40:39,286 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2024-02-08 16:40:39,365 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2024-02-08 16:40:39,440 INFO [main] c.n.c.MapperTests [StartupInfoLogger.java:59] Started MapperTests in 1.424 seconds (JVM running for 1.821)
+2024-02-08 16:40:39,568 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2024-02-08 16:40:39,686 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2024-02-08 16:40:39,738 INFO [Thread-2] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2024-02-08 16:40:39,738 INFO [Thread-2] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2024-02-08 16:40:39,743 INFO [Thread-2] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
